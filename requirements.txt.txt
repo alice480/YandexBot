@@ -1,0 +1,9 @@
+vk_api
+vk
+json
+requests
+time
+random
+wikipedia
+pyspellchecker
+google_trans_new
